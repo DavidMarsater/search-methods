@@ -11,6 +11,9 @@ Examples on how to search lists/arrays in different ways. This script is written
 ## Script explained
 * see the *search.py* file for comments
 
+The script searches the list for two numbers, wich together have the sum X. The seaches are performed in three different ways and the execution time for the different methods are printed.
+
+
 ## Authors
 * **David Mårsäter** - *Initial work*
 
